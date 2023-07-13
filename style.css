@@ -4,7 +4,7 @@
     --secondary-bg: #FDF0E9;
     --primary-color: white;
     --secondary-color: black;
-    --padding-default: 14px;
+    --padding-default: 12px;
     --twocolumn-text-padding: 100px;
 }
 
@@ -18,9 +18,9 @@ body {
     font-family: 'M PLUS 1p', sans-serif;
 
 }
-img{
+img {
     width: 100%;
-    border-radius:10px ;
+    border-radius: 10px;
 }
 
 /* header */
@@ -71,7 +71,7 @@ footer {
 
 }
 
-/**/
+/***/
 /* top */
 #self-introduction{
     padding: var(--padding-default);
