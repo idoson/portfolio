@@ -40,6 +40,9 @@ header {
     #header-catch-img,#header-catch-text {
        padding: 5%; 
     }
+    #header-catch-img{
+        width:50%;
+    }
 }
 
 
@@ -81,7 +84,8 @@ main #main-images img{
         justify-content: space-between;
     }
     .main-latestwork {
-        flex-basis: 33%;
+        /*flex-basis: 33%;*/
+        flex-basis: 20%;
     }
     main #main-images{
         flex-wrap: nowrap;
